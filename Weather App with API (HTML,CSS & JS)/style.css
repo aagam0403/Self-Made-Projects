@@ -7,6 +7,7 @@ body{
 	height: 100vh;
 	margin: 0;
 }
+
 #weather-container {
 	background: rgba(255, 255, 255, 0.3);
 	max-width: 400px;
